@@ -1,4 +1,4 @@
-d-i preseed/early_command string umount /dev/sda
+
 
 # regional setting
 d-i debian-installer/language                               string      en_US:en
